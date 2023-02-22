@@ -5,7 +5,7 @@ Huge credit to these guys who made this possible!
 - UniVRM plugin: https://github.com/vrm-c/UniVRM
 - URP Shader: https://github.com/simplestargame/SimpleURPToonLitOutlineExample
 
-<img src="https://github.com/FFaUniHan/Unity_VRoid_Expression_Maker/blob/main/Demo.gif" width=100% height=100%>
+<img src="https://github.com/FFaUniHan/Unity_VRoid_Template_Projects/blob/main/Demo.jpg" width=100% height=100%>
 
 
 # Tutorial Video
