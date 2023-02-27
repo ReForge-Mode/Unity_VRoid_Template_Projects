@@ -11,7 +11,7 @@ Huge credit to these guys who made this possible!
 # Tutorial Video
 Here are some explanations how to use or create this project in a video form:
 
-[![Create Custom VRoid Facial Expressions for FREE](https://github.com/FFaUniHan/Unity_VRoid_Expression_Maker/blob/main/Video.jpg)](https://youtu.be/zbqbPpbA-9c "Create Custom VRoid Facial Expressions for FREE)")
+[![How to Export VRoid Studio Model to Unity](https://github.com/FFaUniHan/Unity_VRoid_Template_Projects/blob/main/Video.jpg)](https://www.youtube.com/watch?v=aaks0yg9ZyU "How to Export VRoid Studio Model to Unity)")
 
 
 
