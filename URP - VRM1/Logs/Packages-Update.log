@@ -42,3 +42,12 @@ The following packages were updated:
   com.unity.timeline from version 1.6.2 to 1.7.2
   com.unity.xr.legacyinputhelpers from version 2.1.8 to 2.1.10
   com.unity.visualscripting from version 1.7.7 to 1.8.0
+
+=== Fri Sep  8 16:40:59 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 14.0.6 to 14.0.7
+  com.unity.timeline from version 1.7.3 to 1.7.4
