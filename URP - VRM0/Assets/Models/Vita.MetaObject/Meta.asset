@@ -12,17 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63b589176a34b344b9ccbee2b7e7114a, type: 3}
   m_Name: Meta
   m_EditorClassIdentifier: 
-  ExporterVersion: UniVRM-0.44
-  Title: "\u30F4\u30A3\u30FC\u30BF"
+  ExporterVersion: VRoid Studio-1.22.0
+  Title: Vita
   Version: 
-  Author: "VRoid\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8"
+  Author: a
   ContactInformation: 
   Reference: 
   Thumbnail: {fileID: 2800000, guid: 1fc2c077c31a9314aa1d3d88e2fe65eb, type: 3}
-  AllowedUser: 2
-  ViolentUssage: 1
-  SexualUssage: 1
-  CommercialUssage: 1
-  OtherPermissionUrl: https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow
-  LicenseType: 8
-  OtherLicenseUrl: https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow
+  AllowedUser: 0
+  ViolentUssage: 0
+  SexualUssage: 0
+  CommercialUssage: 0
+  OtherPermissionUrl: 
+  LicenseType: 0
+  OtherLicenseUrl: 
