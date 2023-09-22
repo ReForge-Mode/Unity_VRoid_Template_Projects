@@ -19,3 +19,5 @@ Once you download and extract the zip file or clone the project to your Git appl
 Open the project files that matches your VRM model version: VRM0 or VRM1. It's based on the option you selected when you export your model in VRoid Studio. 
 
 If you want to use your model for VSeeFace, it's recommended to use VRM0 instead. 
+
+Once the project is opened, don't forget to double click the Scene file in the Project Window.
